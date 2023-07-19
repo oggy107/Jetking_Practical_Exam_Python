@@ -1,0 +1,16 @@
+Q1. What is Python Programming Language and explain features of
+Python Programming Language.
+
+-----------------------
+
+python is a high-level, dynamic and interpreted language. It was developed by Guido Von Rossum in 90s. Python supports OOP (object oriented programming) as well as procedural
+oriented programming. It is easy to learn and understand.
+
+* Features of python
+
+1. High-level => python is a high level language which means it is highly human readable and understandable.
+2. Portable => python is machine independent. which means same code can run on different architectures such as linux, windows or mac.
+3. easy to learn => python is easy to learn which means it is beginner friendly. It can be easily learnt by someone with little or no coding experence
+4. object oriented => python supports object oriented programming which means we can create classes and objects in it.
+5. great community => python has great community. There are thousands of libraries for doing different things, toutorials, learning matterials, etc which helps develpers alot.
+6. open source and free => python is open source and free. You can download the source code and manipulate it according to your needs.
